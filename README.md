@@ -6,7 +6,11 @@ Scrapes all events of the RIS in Heilbronn for usage in a city api / alexa skill
 
 ## Setup
  
- Download [tabular.jar](https://github.com/tabulapdf/tabula-java/releases) into directory `lib`
+ 1. Download [tabular.jar](https://github.com/tabulapdf/tabula-java/releases) into directory `lib`
+ 
+ 2. Setup virtualenv for python3  (optional)
+ 
+ 3. Install python dependencies `pip install -r requirements.txt`
  
 ## How does it work? 
  
