@@ -1,0 +1,904 @@
+[
+  {
+    "-top": "48",
+    "-left": "89",
+    "-width": "123",
+    "-height": "15",
+    "-font": "0",
+    "i": {
+      "b": "Stadt Heilbronn"
+    }
+  },
+  {
+    "-top": "69",
+    "-left": "89",
+    "-width": "143",
+    "-height": "15",
+    "-font": "0",
+    "i": {
+      "b": "Bürgermeisteramt"
+    }
+  },
+  {
+    "-top": "169",
+    "-left": "347",
+    "-width": "46",
+    "-height": "14",
+    "-font": "1",
+    "#text": "Januar"
+  },
+  {
+    "-top": "169",
+    "-left": "411",
+    "-width": "52",
+    "-height": "14",
+    "-font": "1",
+    "#text": "Februar"
+  },
+  {
+    "-top": "169",
+    "-left": "487",
+    "-width": "33",
+    "-height": "14",
+    "-font": "1",
+    "#text": "März"
+  },
+  {
+    "-top": "169",
+    "-left": "554",
+    "-width": "30",
+    "-height": "14",
+    "-font": "1",
+    "#text": "April"
+  },
+  {
+    "-top": "169",
+    "-left": "622",
+    "-width": "24",
+    "-height": "14",
+    "-font": "1",
+    "#text": "Mai"
+  },
+  {
+    "-top": "169",
+    "-left": "686",
+    "-width": "27",
+    "-height": "14",
+    "-font": "1",
+    "#text": "Juni"
+  },
+  {
+    "-top": "169",
+    "-left": "756",
+    "-width": "22",
+    "-height": "14",
+    "-font": "1",
+    "#text": "Juli"
+  },
+  {
+    "-top": "169",
+    "-left": "807",
+    "-width": "46",
+    "-height": "14",
+    "-font": "1",
+    "#text": "August"
+  },
+  {
+    "-top": "169",
+    "-left": "868",
+    "-width": "73",
+    "-height": "14",
+    "-font": "1",
+    "#text": "September"
+  },
+  {
+    "-top": "169",
+    "-left": "960",
+    "-width": "53",
+    "-height": "14",
+    "-font": "1",
+    "#text": "Oktober"
+  },
+  {
+    "-top": "169",
+    "-left": "1029",
+    "-width": "69",
+    "-height": "14",
+    "-font": "1",
+    "#text": "November"
+  },
+  {
+    "-top": "169",
+    "-left": "1115",
+    "-width": "69",
+    "-height": "14",
+    "-font": "1",
+    "#text": "Dezember"
+  },
+  {
+    "-top": "206",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "04.10."
+  },
+  {
+    "-top": "225",
+    "-left": "89",
+    "-width": "101",
+    "-height": "15",
+    "-font": "2",
+    "b": "Gemeinderat"
+  },
+  {
+    "-top": "226",
+    "-left": "349",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "25.01."
+  },
+  {
+    "-top": "226",
+    "-left": "416",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "23.02."
+  },
+  {
+    "-top": "226",
+    "-left": "482",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "23.03."
+  },
+  {
+    "-top": "226",
+    "-left": "614",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "03.05."
+  },
+  {
+    "-top": "226",
+    "-left": "679",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "21.06."
+  },
+  {
+    "-top": "226",
+    "-left": "746",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "25.07."
+  },
+  {
+    "-top": "226",
+    "-left": "884",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "21.09."
+  },
+  {
+    "-top": "226",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "12.10."
+  },
+  {
+    "-top": "226",
+    "-left": "1043",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "13.11."
+  },
+  {
+    "-top": "226",
+    "-left": "1128",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "17.12."
+  },
+  {
+    "-top": "246",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "25.10."
+  },
+  {
+    "-top": "246",
+    "-left": "1128",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "20.12."
+  },
+  {
+    "-top": "281",
+    "-left": "89",
+    "-width": "166",
+    "-height": "14",
+    "-font": "3",
+    "b": "Verwaltungsausschuss"
+  },
+  {
+    "-top": "281",
+    "-left": "349",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "15.01."
+  },
+  {
+    "-top": "281",
+    "-left": "416",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "05.02."
+  },
+  {
+    "-top": "281",
+    "-left": "482",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "12.03."
+  },
+  {
+    "-top": "281",
+    "-left": "549",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "23.04."
+  },
+  {
+    "-top": "281",
+    "-left": "679",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "11.06."
+  },
+  {
+    "-top": "281",
+    "-left": "746",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "16.07."
+  },
+  {
+    "-top": "281",
+    "-left": "884",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "17.09."
+  },
+  {
+    "-top": "281",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "15.10."
+  },
+  {
+    "-top": "281",
+    "-left": "1043",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "05.11."
+  },
+  {
+    "-top": "281",
+    "-left": "1128",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "03.12."
+  },
+  {
+    "-top": "300",
+    "-left": "1128",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "10.12."
+  },
+  {
+    "-top": "318",
+    "-left": "89",
+    "-width": "204",
+    "-height": "14",
+    "-font": "3",
+    "b": "Bau- und Umweltausschuss/"
+  },
+  {
+    "-top": "337",
+    "-left": "89",
+    "-width": "137",
+    "-height": "14",
+    "-font": "3",
+    "b": "Betriebsausschuss"
+  },
+  {
+    "-top": "337",
+    "-left": "349",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "16.01."
+  },
+  {
+    "-top": "337",
+    "-left": "416",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "06.02."
+  },
+  {
+    "-top": "337",
+    "-left": "482",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "13.03."
+  },
+  {
+    "-top": "337",
+    "-left": "549",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "24.04."
+  },
+  {
+    "-top": "337",
+    "-left": "679",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "12.06."
+  },
+  {
+    "-top": "337",
+    "-left": "746",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "17.07."
+  },
+  {
+    "-top": "337",
+    "-left": "884",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "18.09."
+  },
+  {
+    "-top": "337",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "16.10."
+  },
+  {
+    "-top": "337",
+    "-left": "1043",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "06.11."
+  },
+  {
+    "-top": "337",
+    "-left": "1128",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "04.12."
+  },
+  {
+    "-top": "355",
+    "-left": "89",
+    "-width": "84",
+    "-height": "14",
+    "-font": "3",
+    "b": "Entsorgung"
+  },
+  {
+    "-top": "355",
+    "-left": "1128",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "11.12."
+  },
+  {
+    "-top": "395",
+    "-left": "89",
+    "-width": "159",
+    "-height": "14",
+    "-font": "3",
+    "b": "Wirtschaftsausschuss"
+  },
+  {
+    "-top": "395",
+    "-left": "349",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "17.01."
+  },
+  {
+    "-top": "395",
+    "-left": "416",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "07.02."
+  },
+  {
+    "-top": "395",
+    "-left": "482",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "14.03."
+  },
+  {
+    "-top": "395",
+    "-left": "549",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "25.04."
+  },
+  {
+    "-top": "395",
+    "-left": "679",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "13.06."
+  },
+  {
+    "-top": "395",
+    "-left": "746",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "18.07."
+  },
+  {
+    "-top": "395",
+    "-left": "884",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "19.09."
+  },
+  {
+    "-top": "395",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "17.10."
+  },
+  {
+    "-top": "395",
+    "-left": "1043",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "07.11."
+  },
+  {
+    "-top": "395",
+    "-left": "1128",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "05.12."
+  },
+  {
+    "-top": "454",
+    "-left": "89",
+    "-width": "161",
+    "-height": "14",
+    "-font": "3",
+    "b": "Jugendhilfeausschuss"
+  },
+  {
+    "-top": "454",
+    "-left": "482",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "19.03."
+  },
+  {
+    "-top": "454",
+    "-left": "746",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "02.07."
+  },
+  {
+    "-top": "454",
+    "-left": "1043",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "29.11."
+  },
+  {
+    "-top": "491",
+    "-left": "89",
+    "-width": "159",
+    "-height": "14",
+    "-font": "3",
+    "b": "Umlegungsausschuss"
+  },
+  {
+    "-top": "491",
+    "-left": "482",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "13.03."
+  },
+  {
+    "-top": "491",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "16.10."
+  },
+  {
+    "-top": "528",
+    "-left": "89",
+    "-width": "121",
+    "-height": "14",
+    "-font": "3",
+    "b": "Kulturausschuss"
+  },
+  {
+    "-top": "528",
+    "-left": "482",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "21.03."
+  },
+  {
+    "-top": "528",
+    "-left": "746",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "12.07."
+  },
+  {
+    "-top": "528",
+    "-left": "1043",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "22.11."
+  },
+  {
+    "-top": "566",
+    "-left": "89",
+    "-width": "120",
+    "-height": "14",
+    "-font": "3",
+    "b": "Sozialausschuss"
+  },
+  {
+    "-top": "566",
+    "-left": "549",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "16.04."
+  },
+  {
+    "-top": "566",
+    "-left": "746",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "09.07."
+  },
+  {
+    "-top": "566",
+    "-left": "1043",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "12.11."
+  },
+  {
+    "-top": "603",
+    "-left": "89",
+    "-width": "116",
+    "-height": "14",
+    "-font": "3",
+    "b": "Sportausschuss"
+  },
+  {
+    "-top": "603",
+    "-left": "679",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "06.06."
+  },
+  {
+    "-top": "603",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "10.10."
+  },
+  {
+    "-top": "640",
+    "-left": "89",
+    "-width": "105",
+    "-height": "14",
+    "-font": "3",
+    "b": "Bildungsbeirat"
+  },
+  {
+    "-top": "640",
+    "-left": "416",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "21.02."
+  },
+  {
+    "-top": "640",
+    "-left": "614",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "16.05."
+  },
+  {
+    "-top": "640",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "24.10."
+  },
+  {
+    "-top": "677",
+    "-left": "89",
+    "-width": "160",
+    "-height": "14",
+    "-font": "3",
+    "b": "Beirat für Partizipation"
+  },
+  {
+    "-top": "677",
+    "-left": "416",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "01.02."
+  },
+  {
+    "-top": "677",
+    "-left": "746",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "05.07."
+  },
+  {
+    "-top": "677",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "11.10."
+  },
+  {
+    "-top": "695",
+    "-left": "89",
+    "-width": "109",
+    "-height": "14",
+    "-font": "3",
+    "b": "und Integration"
+  },
+  {
+    "-top": "735",
+    "-left": "89",
+    "-width": "115",
+    "-height": "14",
+    "-font": "3",
+    "b": "Inklusionsbeirat"
+  },
+  {
+    "-top": "735",
+    "-left": "549",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "17.04."
+  },
+  {
+    "-top": "735",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "09.10."
+  },
+  {
+    "-top": "772",
+    "-left": "89",
+    "-width": "104",
+    "-height": "14",
+    "-font": "3",
+    "b": "Verkehrsbeirat"
+  },
+  {
+    "-top": "772",
+    "-left": "482",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "06.03."
+  },
+  {
+    "-top": "772",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "23.10."
+  },
+  {
+    "-top": "809",
+    "-left": "89",
+    "-width": "142",
+    "-height": "14",
+    "-font": "3",
+    "b": "Jugendgemeinderat"
+  },
+  {
+    "-top": "809",
+    "-left": "349",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "18.01."
+  },
+  {
+    "-top": "809",
+    "-left": "416",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "08.02."
+  },
+  {
+    "-top": "809",
+    "-left": "482",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "15.03."
+  },
+  {
+    "-top": "809",
+    "-left": "549",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "26.04."
+  },
+  {
+    "-top": "809",
+    "-left": "679",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "14.06."
+  },
+  {
+    "-top": "809",
+    "-left": "746",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "19.07."
+  },
+  {
+    "-top": "809",
+    "-left": "884",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "20.09."
+  },
+  {
+    "-top": "809",
+    "-left": "966",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "18.10."
+  },
+  {
+    "-top": "809",
+    "-left": "1043",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "08.11."
+  },
+  {
+    "-top": "809",
+    "-left": "1128",
+    "-width": "41",
+    "-height": "14",
+    "-font": "1",
+    "#text": "06.12."
+  },
+  {
+    "-top": "99",
+    "-left": "161",
+    "-width": "954",
+    "-height": "15",
+    "-font": "4",
+    "i": "Sitzungstermine des Gemeinderats, der beschließenden und beratenden Ausschüsse, der Beiräte sowie des Jugendgemeinderats"
+  },
+  {
+    "-top": "120",
+    "-left": "536",
+    "-width": "208",
+    "-height": "15",
+    "-font": "2",
+    "b": "Januar bis Dezember 2018"
+  },
+  {
+    "-top": "70",
+    "-left": "986",
+    "-width": "168",
+    "-height": "14",
+    "-font": "5",
+    "i": {
+      "b": "Stand: 16. Februar 2018"
+    }
+  }
+]
